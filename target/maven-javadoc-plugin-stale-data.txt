@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/elijo/Downloads/cityrescue-starter/ECM1410_OOP-main/cityrescue-starter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/elijo/Downloads/cityrescue-starter/ECM1410_OOP-main/cityrescue-starter/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cityrescue-liteplus 1.0.0 API'
+-use
+-version
+-windowtitle
+'cityrescue-liteplus 1.0.0 API'
+cityrescue
+cityrescue.enums
+cityrescue.exceptions
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\src\main\java\desktop.ini = 1772612262182
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\src\main\java = 1772606409245
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\allclasses-index.html = 1772678268367
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\allpackages-index.html = 1772678268371
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\element-list = 1772678268172
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\help-doc.html = 1772678268402
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\index-all.html = 1772678268395
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\index.html = 1772678268344
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\jquery-ui.overrides.css = 1772678268425
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\member-search-index.js = 1772678268377
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\module-search-index.js = 1772678268372
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\overview-summary.html = 1772678268398
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\overview-tree.html = 1772678268337
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\package-search-index.js = 1772678268374
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\script.js = 1772678268406
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\search.js = 1772678268408
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\serialized-form.html = 1772678268217
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\stylesheet.css = 1772678268403
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\tag-search-index.js = 1772678268379
+C:\Users\elijo\Downloads\cityrescue-starter\ECM1410_OOP-main\cityrescue-starter\target\reports\apidocs\type-search-index.js = 1772678268376
