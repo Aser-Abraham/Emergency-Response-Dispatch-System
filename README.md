@@ -1,6 +1,4 @@
-# CityRescue Lite+ (Starter Repo)
-
-This repository is your starting point for the CityRescue Lite+ coursework.
+# CityRescue Lite
 
 ## Quick start (local)
 
